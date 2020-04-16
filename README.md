@@ -4,4 +4,4 @@
 
 第一步：[基础配置.md](hhttps://github.com/blackteahamburger/My-archlinux-configuration/blob/master/%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE.md)
 
-可参见[archwiki](https://wiki.archlinux.org)查看更多内容
+可参见[archwiki](https://wiki.archlinux.org)查看更多内容。
